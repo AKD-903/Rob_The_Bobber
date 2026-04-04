@@ -9,24 +9,23 @@ body {
 }
 
 .container {
-  width: 100vw;       /* full viewport width */
-  height: 100vh;      /* full viewport height */
+  width: 90%;  
+  max-width: 1200px;
   padding: 20px;
   background-color: #fefefe; 
-  border-radius: 0;   /* optional: remove rounded corners for full screen */
-  box-shadow: none;   /* optional: remove shadow for full screen */
-  display: flex;      /* use flex to center content */
+  display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: flex-start; /* title at top, content below */
+  justify-content: flex-start;
+  margin: 0 auto;   
 }
 
 h1 {
   font-size: 40px;
   color: #000;
   margin: 15px 0 25px 0;
-  text-align: center;  /* center text */
-  text-decoration: underline; /* underline title */
+  text-align: center;
+  text-decoration: underline; 
 }
 
 ul {
