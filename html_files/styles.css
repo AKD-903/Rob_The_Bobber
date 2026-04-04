@@ -9,13 +9,13 @@ body {
 }
 
 .container {
-  max-width: 900px;
+  width: 90%;
+  max-width: 1200px;
   margin: 20px auto; 
   padding: 20px;
   background-color: #fefefe;
   border-radius: 20px; 
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-  min-height: 400px
 }
 
 h1 {
