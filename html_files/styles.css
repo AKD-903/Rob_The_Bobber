@@ -20,20 +20,20 @@ body {
 }
 
 a.button {
-  display: inline-block;           /* makes it a block-like button */
-  padding: 10px 20px;              /* size of button */
-  margin: 10px 5px;                /* spacing between buttons */
-  background-color: #000;          /* button color */
-  color: #fff;                     /* text color */
-  text-decoration: none;           /* removes underline */
-  border-radius: 10px;             /* rounded corners */
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px 5px; 
+  background-color: 000; /* black button */
+  color: #fff; /* white text */
+  text-decoration: none;
+  border-radius: 10px;
   font-size: 16px;
   transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
 a.button:hover {
-  background-color: #333;          /* darker on hover */
-  transform: translateY(-2px);     /* slight lift on hover */
+  background-color: #333;
+  transform: translateY(-2px); /* slight lift on hover */
 }
 
 h1 {
