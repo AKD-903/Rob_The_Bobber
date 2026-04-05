@@ -19,10 +19,6 @@ body {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
-.container:hover {
-  background-color: #f0f0f0; 
-}
-
 h1 {
   font-size: 40px;
   color: #000;
