@@ -19,23 +19,6 @@ body {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
-a.button {
-  display: inline-block;   
-  padding: 10px 20px; 
-  margin: 10px 5px;     
-  background-color: #000;  
-  color: #fff;      
-  text-decoration: none;
-  border-radius: 10px;  
-  font-size: 16px;
-  transition: background-color 0.3s ease, transform 0.2s ease;
-}
-
-a.button:hover {
-  background-color: #333;          
-  transform: translateY(-2px);      /* subtle lift effect */
-}
-
 h1 {
   font-size: 40px;
   color: #000;
