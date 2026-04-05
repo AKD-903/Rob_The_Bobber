@@ -24,7 +24,9 @@ h1 {
   color: #000;
   margin: 15px 0 25px 0;
   text-align: center;
-  text-decoration: underline !important; 
+  display: inline-block;   
+  border-bottom: 3px solid #000;
+  padding-bottom: 5px; 
 }
 
 ul {
