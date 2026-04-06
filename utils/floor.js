@@ -1,7 +1,7 @@
 class Floor {
   constructor(y_pos) {
       this.y = y_pos;
-      this.fillColor = "#FF0000"
+      this.fillColor = "#000000"
       this.width = 1000;
       this.height = 30;
 
